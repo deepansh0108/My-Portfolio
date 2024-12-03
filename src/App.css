@@ -771,4 +771,40 @@ body {
   .education-item {
     margin: 5px 0;
   }
+/*   
+  @media only screen and (max-width: 768px) {
+    
+    .container,
+    .hero--section,
+    .skills--section,
+    .about--section,
+    .portfolio--section,
+    .testimonial--section,
+    .contact--section,
+    .footer--container {
+      width: 100%;
+      padding: 0 16px; 
+      box-sizing: border-box;
+    }
+    .about--section{
+      padding-top: 20px;
+    }
   
+    
+    .skills--section--container,
+    .portfolio--section--container,
+    .footer--link--container {
+      width: 100%;
+    }
+  
+  
+    .navbar {
+      padding: 10px 16px;
+    }
+  
+    .contact--form--container {
+      width: 100%;
+      padding: 0;
+    }
+  }
+   */

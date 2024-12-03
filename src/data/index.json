@@ -31,14 +31,16 @@
         "src": "./img/website2.png",
         "title": "MyPortfolio",
         "description": "Here, you'll find a showcase of my skills, projects, and passion for front-end development, highlighting my journey in crafting responsive and user-friendly web applications.",
-        "link": "View In Github"
+        "link": "View In Github",
+        "link_open": "https://github.com/deepansh0108/My-Portfolio"
       },
       {
         "id": "2",
         "src": "./img/magic.png",
         "title": "Magic Game",
         "description": "Step into the world of wonder with my Magic Game, where imagination meets interactive gameplay! Experience a captivating journey filled with enchanting challenges and mesmerizing visuals.",
-        "link": "View In Github"
+        "link": "Visit",
+        "link_open": "https://memory-game-nine-pearl.vercel.app/"
       },
       {
         "id": "3",
