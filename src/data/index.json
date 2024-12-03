@@ -1,0 +1,77 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "Passionate about crafting seamless user experiences, optimizing performance, and bringing design concepts to life with clean and efficient code."
+      },
+      {
+        "id": "2",
+        "src": "./img/js.png",
+        "title": "JavaScript",
+        "description": "Proficient in JavaScript, a widely-used programming language essential for building dynamic, interactive, and responsive web applications."
+      },
+      {
+        "id": "3",
+        "src": "./img/java.png",
+        "title": "Java",
+        "description": "Experienced in Java, a object-oriented programming language, reliable and scalable in building secure, cross-platform applications."
+      },
+      {
+        "id": "4",
+        "src": "./img/c.png",
+        "title": "C",
+        "description": "Skilled in C programming, enabling the creation of high-performance applications and efficient hardware-level interactions."
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/website2.png",
+        "title": "MyPortfolio",
+        "description": "Here, you'll find a showcase of my skills, projects, and passion for front-end development, highlighting my journey in crafting responsive and user-friendly web applications.",
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
+        "src": "./img/magic.png",
+        "title": "Magic Game",
+        "description": "Step into the world of wonder with my Magic Game, where imagination meets interactive gameplay! Experience a captivating journey filled with enchanting challenges and mesmerizing visuals.",
+        "link": "View In Github"
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-1.png",
+        "title": "Cooking",
+        "description": "Developed a Recipe Management Application using React.js for the front-end and Firebase for the back-end, allowing user to add, manage, and share their favorite recipes to the page  and real-time data integration.",
+        "link": "View In Github"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "1",
+        "src": "./img/cert1.webp",
+        "title": "Vocational Training at System Department, BCCL",
+        "description": "Gaining hands-on experience and valuable insights into specific area.",
+        "link": "Download",
+        "link_open":"https://drive.google.com/file/d/1zkOshGEfbWCNMw2UdorL2jkrgKmZwBKI/view?usp=sharing"
+      },
+      {
+        "id": "2",
+        "src": "./img/cert1.webp",
+        "title": "MEAN And MERN , Prep Labs",
+        "description": "Developed full stack application using MEAN And MERN stacks, focusing on performance and user experience.",
+        "link": "Download",
+        "link_open":"https://drive.google.com/file/d/1Tv0sHQc7Qo9Li_A7NlR7ZYmC7CrFKNnD/view?usp=sharing"
+      },
+      {
+        "id": "3",
+        "src": "./img/cert1.webp",
+        "title": "Build Web Apps with React, Udemy",
+        "description": "Enhanced my skills through Udemy, completing course to stay updated with the latest tools and technologies.",
+        "link": "Download",
+        "link_open":"https://drive.google.com/file/d/1FOqN-yV5CYNISGtOSYdWMgP_cDskUDrV/view?usp=sharing"
+      }
+    ]
+  }
